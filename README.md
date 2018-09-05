@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/BXT-TBBS/stargazers)
 
 # SetupTP
-Third Person custom
+Custom Third Person.
 
 ---
 
