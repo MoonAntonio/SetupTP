@@ -3,8 +3,8 @@
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.3.1f1-blue.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/SetupTP)
 [![GitHub license](https://img.shields.io/github/license/MoonAntonio/SetupTP.svg)](https://github.com/MoonAntonio/SetupTP/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/BXT-TBBS/network)
-[![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/BXT-TBBS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/SetupTP/network)
+[![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/BXT-TBBS.svg)](https://github.com/MoonAntonio/SetupTP/stargazers)
 
 # SetupTP
 Custom Third Person.
